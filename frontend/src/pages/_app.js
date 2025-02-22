@@ -1,3 +1,4 @@
+// filepath: /C:/Users/carmi/Documents/GitHub/gutbrain/frontend/pages/_app.js
 import '../src/styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
